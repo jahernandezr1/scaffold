@@ -8,4 +8,5 @@ def subtract(x):
     return x - 1
 
 x1 = 2
-print("This is the sum: {x1}, %s" % add(x1))
+result = add(x1)
+print("This is the sum: {x1}, %s" % result)

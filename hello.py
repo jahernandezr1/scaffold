@@ -9,4 +9,4 @@ def subtract(x):
 
 x1 = 2
 result = add(x1)
-print("This is the sum: {x1}, %s" % result)
+print("This is the sum: %s" % result)
